@@ -1,37 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "Test Stream",
-      "description": "This is a test stream",
-      "id": 1
-    },
-    {
-      "title": "Other Steam",
-      "description": "Here is some streaming",
-      "id": 2
-    },
-    {
-      "title": "I created this stream",
-      "description": "testing edit",
-      "id": 4
-    },
-    {
-      "title": "Testing history",
-      "description": "Testing the history object push method",
-      "userId": "101651695683054064436",
-      "id": 5
-    },
-    {
-      "title": "Me re-factoring ",
-      "description": "I have re-factored the stream create component to make it more re-useable",
-      "userId": "101651695683054064436",
-      "id": 7
-    },
-    {
-      "title": "Test stream",
-      "description": "This is a test stream",
-      "userId": "101651695683054064436",
-      "id": 8
-    }
-  ]
+  "streams": []
 }
